@@ -1,0 +1,21 @@
+-----------2020-04-21 15:07-----------
+---- TRAIN QUEUE 01 ----
+  - Passenger Details -
+Name : ssadasd  |  NIC Number : 199933215621  |  Seat Number : 1
+
+ - Queue Statistics - 
+Maximum Waiting Time - 6.0
+Minimum Waiting Time - 6.0
+Average Waiting Time - 6.0
+Maximum Queue Length - 1
+--------------------------------------
+---- TRAIN QUEUE 02 ----
+  - Passenger Details -
+
+ - Queue Statistics - 
+Maximum Waiting Time - 0.0
+Minimum Waiting Time - 0.0
+Average Waiting Time - 0.0
+Maximum Queue Length - 0
+--------------------------------------
+
